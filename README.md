@@ -7,3 +7,6 @@ Press the following keys to change the background accordingly-
   "i"- Indigo
   "y"- Yellow
   "p"- Pink
+
+
+Link- https://sohamdes.github.io/Interactive-Mandala/empty-example/index.html
